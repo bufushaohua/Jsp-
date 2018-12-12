@@ -8,8 +8,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-<C:redirect url="BookServlet">
-	<C:param name="action" value="query"></C:param>
+<C:redirect url="BookServlet">		<!-- 跳转并传参 -->
+	<C:param name="action" value="query"></C:param>    <!-- 参数： action="query" -->
 </C:redirect>
 </body>
 </html>

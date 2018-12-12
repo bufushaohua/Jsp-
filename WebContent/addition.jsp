@@ -43,7 +43,7 @@ function check(){
 <form action="AdditionServlet" method="post" name="form1" >
 	<table  border="0" align="center" cellpadding="0" cellspacing="1" bgcolor="#333333" >
 	<tr>
-		<td align="center" height="30" colspan="6" bgcolor="#EFEFEF">图书信息列表</td>
+		<td align="center" height="30" colspan="6" bgcolor="#EFEFEF">新增图书信息</td>
 	</tr>
 	<tr>
 		<td align="center" bgcolor="#FFFFFF">编号</td>
